@@ -1,0 +1,8 @@
+# Personal memory data — don't upload
+memory/episodic/*.json
+memory/improve-log.jsonl
+memory/semantic/patterns.json
+
+# Keep directory structure
+!memory/episodic/.gitkeep
+!memory/semantic/.gitkeep
